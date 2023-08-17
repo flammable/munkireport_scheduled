@@ -26,6 +26,8 @@ Here's what you'll need to build this pkg:
 4. If all goes well, you should have `munkireport_scheduled-1.0.pkg` in your `build` directory.
 5. Deploy the newly created pkg with your chosen package deployment system.
 
+Or, just grab the prebuilt pkg [from the Releases section](https://github.com/flammable/munkireport_scheduled/releases).
+
 ## Credit
 
 Huge thanks to [Mat X](https://macvfx.blog) for providing his own LaunchDaemon - that's what's included here.
