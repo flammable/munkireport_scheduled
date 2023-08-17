@@ -1,0 +1,7 @@
+#!/bin/sh
+
+launchctl="/bin/launchctl"
+
+${launchctl} load /Library/LaunchDaemons/com.github.munkireport.scheduled.plist
+
+exit
